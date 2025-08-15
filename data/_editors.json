@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "[Owner] TinedRiver",
+        "link": "https://www.youtube.com/@TinedRiver"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "[Admin] not occupied",
+        "link": "https://www.youtube.com/@TinedRiver"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "[Helper] Prometheus",
+        "link": "https://www.youtube.com/@TinedRiver"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "[trial helper] not occupied",
+        "link": "https://www.youtube.com/@TinedRiver"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "[developer] not occupied",
+        "link": "https://www.youtube.com/@TinedRiver"
     }
 ]
