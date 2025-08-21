@@ -3,25 +3,5 @@
         "role": "owner",
         "name": "[Owner] TinedRiver",
         "link": "https://www.youtube.com/@TinedRiver"
-    },
-    {
-        "role": "admin",
-        "name": "[Admin] not occupied",
-        "link": "https://www.youtube.com/@TinedRiver"
-    },
-    {
-        "role": "helper",
-        "name": "[Helper] Prometheus",
-        "link": "https://www.youtube.com/@Prometheus_alt"
-    },
-    {
-        "role": "trial",
-        "name": "[trial helper] not occupied",
-        "link": "https://www.youtube.com/@TinedRiver"
-    },
-    {
-        "role": "dev",
-        "name": "[developer] not occupied",
-        "link": "https://www.youtube.com/@TinedRiver"
     }
 ]
